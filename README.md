@@ -1,4 +1,6 @@
-# Memory  Game
+<p align="center"><img src="https://user-images.githubusercontent.com/95040233/169070170-64c5f38d-1645-47ed-bdf1-7dcddcaf48e6.png"></p>
+
+# Memory Game
 
 ## Authors
 
